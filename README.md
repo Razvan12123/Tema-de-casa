@@ -10,7 +10,7 @@ Acest proiect implementează un algoritm pentru calcularea distanței Levenshtei
 ## Cerințe
 
 - Un compilator C (de exemplu, GCC).
-- Un sistem de operare Linux sau Windows cu un terminal compatibil.
+
 
 ## Compilarea Codului
 
