@@ -4,12 +4,19 @@ Acest proiect implementează un algoritm pentru calcularea distanței Levenshtei
 
 ## Structura Proiectului
 
-- `levenshtein.c`: Codul sursă principal care include implementarea algoritmului și generarea datelor de test.
+- `tema de casa.zip`: fisier zip care contine codul sursa si documentatia acestuia.
 - `README.md`: Instrucțiuni pentru compilarea și rularea codului.
-
+- `raport tehnic.pdf` contine raportul tehnic in legatura cu proiectul.
 ## Cerințe
 
-- Un compilator C (de exemplu, GCC).
+Fragmentul de cod dat: ”fnuc(myFuncion”
+
+Obiectivul nostru este sa gasim numarul minim de operat, ii necesare pentru a corecta fragmentul de cod astfel incat sa se potriveasca
+
+cu modelul definit de regula. Aceste operatii pot include de exemplu, inversarea caracterelor ”n” si ”u” pentru a obtine ”func”,
+
+apoi insertia caracterelor lipsa ”t” s, i ”)”, astfel incat sa obtinem
+”func(myFunction)”
 
 
 ## Compilarea Codului
